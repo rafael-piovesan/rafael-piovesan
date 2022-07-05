@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rafael-piovesan, Senior Software Engineer with more than 10 years of experience, passionate about learning new technologies and skills.
+- 👋 Hi, I’m @rafael-piovesan, Senior Software Engineer with more than 12 years of experience, mainly focused on Backend and Data Engineering.
 - 👀 I’m enthusiastic about Big Data, Advanced Analytics and Machine Learning.
 - 📫 Reach out to me on [Linkedin](https://www.linkedin.com/in/rafaelpcm/) or follow me on [Medium](https://medium.com/@rubens.piovesan)
 
